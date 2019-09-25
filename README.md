@@ -3,3 +3,4 @@ We want to make a model which help the industry to educe it's manpower which is 
 We will be incorporating 
 1. Text Extraction
 2. Pixel Matching 
+3. Contour Mapping
