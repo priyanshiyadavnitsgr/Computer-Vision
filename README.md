@@ -4,3 +4,6 @@ We will be incorporating
 1. Text Extraction
 2. Pixel Matching 
 3. Contour Mapping
+4. Template Mactching
+
+
