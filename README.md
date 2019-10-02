@@ -1,4 +1,5 @@
-# ConWo-Tech
+# Computer Vision
+
 We want to make a model which help the industry to reduce it's manpower which is involved in the inspection of the output product.
 We will be incorporating 
 1. Text Extraction
